@@ -1,4 +1,4 @@
-/* Daily Update Scrip — 01 */
+/* Daily Update Script — 01 */
 /* This script generates a random fact every time it runs */
 
 function generateDailyFact() {
